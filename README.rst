@@ -26,8 +26,8 @@ Using examples
 4. `git submodule add https://github.com/bogaso-com/esp32-idf-sqlite3-examples examples/esp32-idf-sqlite3-examples`
 5. `cd examples/esp32-idf-sqlite3-examples/spiffs`
 6. make menuconfig and select custome partition table (partition.csv )
-6. `make flash`
-7. To check output, use `miniterm.py <device> 115200` and reset board
+7. `make flash`
+8. To check output, use `miniterm.py <device> 115200` and reset board
 
 Information specific to ESP-IDF
 -------------------------------
